@@ -1,0 +1,73 @@
+export const data = [
+	{
+		id: 1,
+		concert_name: "Ghibli movies soundtrack concert",
+		orchestraTeam_name: "Koko",
+		date: "21 Nov 2023",
+		city: "Astana",
+	},
+	{
+		id: 2,
+		concert_name: "Independance day Concert",
+		orchestraTeam_name: "All team",
+		date: "16 Dec 2023",
+		city: "Almaty",
+	},
+	{
+		id: 3,
+		concert_name: "Tchaikovsky's Symphony No.4",
+		orchestraTeam_name: "Orpheum",
+		date: "19 Dec 2023",
+		city: "Astana",
+	},
+	{
+		id: 4,
+		concert_name: "Beethoven's Pastoral Symphony",
+		orchestraTeam_name: "Eric Lu",
+		date: "22 Dec 2023",
+		city: "Aktobe",
+	},
+	{
+		id: 5,
+		concert_name: "Traditional Christmas",
+		orchestraTeam_name: "All team",
+		date: "26 Dec 2023",
+		city: "Astana",
+	},
+	{
+		id: 6,
+		concert_name: "Spanish Adventures: Don Quixote",
+		orchestraTeam_name: "Orpheum",
+		date: "5 Jan 2024",
+		city: "Shymkent",
+	},
+	{
+		id: 7,
+		concert_name: "Disney in Concert: The Sound of Magic",
+		orchestraTeam_name: "Raiders",
+		date: "13 Jan 2024",
+		city: "Semey",
+	},
+	{
+		id: 8,
+		concert_name: "Tausk Conducts Mozart & Chang",
+		orchestraTeam_name: "Chang",
+		date: "25 Jan 2024",
+		city: "Almaty",
+	},
+	{
+		id: 9,
+		concert_name: "Masetro Tausk & Vadim Gluzman",
+		orchestraTeam_name: "Tausk",
+		date: "7 Feb 2024",
+		city: "Atyrau",
+	},
+	{
+		id: 10,
+		concert_name: "Tausk Conducts Shostakovich & Adams",
+		orchestraTeam_name: "Tausk",
+		date: "21 Feb 2024",
+		city: "Kostanay",
+	},
+	
+];
